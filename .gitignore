@@ -1,0 +1,22 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Poids de modèles
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
